@@ -2,7 +2,7 @@ package hello_test
 
 import (
 	"bytes"
-	"gotemplate/internal"
+	"goapp/internal"
 	"io"
 	"os"
 	"testing"

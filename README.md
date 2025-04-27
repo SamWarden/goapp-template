@@ -1,4 +1,4 @@
-# Gotemplate
+# GO App Template
 
 Template for a Go project
 
@@ -7,7 +7,7 @@ Template for a Go project
 Clone this template
 
 ```bash
-git clone git@github.com:SamWarden/gotemplate.git appname
+git clone git@github.com:SamWarden/goapp-template.git appname
 cd appname
 git remote rename origin template
 ```

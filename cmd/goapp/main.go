@@ -1,6 +1,6 @@
 package main
 
-import "gotemplate/internal"
+import "goapp/internal"
 
 func main() {
 	hello.PrintHelloWorld()
