@@ -1,0 +1,20 @@
+services:
+  goapp:
+    image: goapp
+    build: .
+    container_name: goapp
+    restart: unless-stopped
+#     ports:
+#       - "8000:8000"
+#     volumes:
+#       - goapp-data:/app/data
+#     networks:
+#       - goapp-network
+
+# volumes:
+#   goapp-data:
+#     name: goapp-data
+
+# networks:
+#   goapp-network:
+#     name: goapp-network
